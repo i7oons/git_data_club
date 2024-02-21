@@ -1,5 +1,6 @@
 - laptop
-- mouse
+- mice
 - keyboard
 - camera
 - PC
+- speaker
